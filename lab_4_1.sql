@@ -1,3 +1,5 @@
+-- __author__ = 'Нестеренко Александр'
+-- 1. Заполнить все таблицы БД vk данными (по 10-20 записей в каждой таблице)
 DROP DATABASE IF EXISTS vk_lab;
 
 CREATE DATABASE IF NOT EXISTS vk_lab;
